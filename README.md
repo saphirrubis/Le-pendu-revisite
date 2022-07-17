@@ -1,4 +1,4 @@
-# PierreFeuilleCiseaux en HTML
+# Le-pendu-revisite en HTML
  
  JEU du pendu revisté en html/css et javascript
 
